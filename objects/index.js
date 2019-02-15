@@ -3,13 +3,12 @@
 
 // const Vehicle = require('./vehicle-constructor.js');
 // const Vehicle = require('./vehicle-class.js');
-const CarFactory = require('./vehicle-factory.js');
-const MotorcycleFactory = require('./vehicle-factory')
+const Vehicle = require('./vehicle-factory.js');
 
 // Implement a car and motorcycle
-const mazda = new CarFactory('Mazda 3');
+const mazda = new Vehicle.Car('Mazda 3');
 console.log(mazda.name, mazda.drive(), mazda.stop());
 
-const harley = new MotorcycleFactory('Harley');
+const harley = new Vehicle.Motorcycle('Harley');
 console.log(harley.name, harley.wheelie(), harley.stop());
 
