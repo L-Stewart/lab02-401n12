@@ -1,6 +1,6 @@
 'use strict';
 
-const Vehicle = require('../constructor.js');
+const Vehicle = require('../vehicle-factory.js');
 
 describe('Vehicles', () => {
 

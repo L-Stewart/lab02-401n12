@@ -1,0 +1,25 @@
+{
+  "name": "lab02-401n12",
+  "version": "1.0.0",
+  "description": "Lorin has set up a repository and put in the starter code and LAB.md.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Stewart/lab02-401n12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-Stewart/lab02-401n12/issues"
+  },
+  "homepage": "https://github.com/L-Stewart/lab02-401n12#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
