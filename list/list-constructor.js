@@ -25,8 +25,10 @@ List.prototype.pop = function() {
 };
 
 List.prototype.shift = function() {
-  let returnValue = this.data;
-  delete this.data[0]
-}
+  let returnValue = this.data[0];
+  delete this.data[0];
+  this.length--;
+  return returnValue;
+};
 
 module.exports = List;
