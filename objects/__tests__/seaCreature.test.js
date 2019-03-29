@@ -22,7 +22,7 @@ describe('SeaCreatures', () => {
     });
 
     it('can\'t poop', () => {
-      expect(salmon.poop()).toBeUndefined();
+      expect(salmon.poop).toBeUndefined();
     });
 
   });
@@ -32,19 +32,19 @@ describe('SeaCreatures', () => {
     let maine = new SeaCreature.Lobster('Butter');
 
     it('has 1 tail', () => {
-      expect(salmon.tail).toEqual(1);
+      expect(maine.tail).toEqual(1);
     });
 
     it('can swim', () => {
-      expect(salmon.swim()).toBeTruthy();
+      expect(maine.swim()).toBeTruthy();
     });
 
     it('can eat', () => {
-      expect(salmon.eat()).toBeTruthy();
+      expect(maine.eat()).toBeTruthy();
     });
 
     it('can poop', () => {
-      expect(salmon.poop()).toEqual('Chocolate Milk!!!');
+      expect(maine.poop()).toBe('Chocolate Milk!!!');
     });
 
   });
