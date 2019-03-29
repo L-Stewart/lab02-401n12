@@ -1,0 +1,379 @@
+ed46b3f60385691cb38da84e2dfe7e25
+'use strict';
+
+/* istanbul ignore next */
+var cov_2cyvkc5n87 = function () {
+  var path = "/home/lorin/cf/401/lab02-401n12/objects/flyingVehicle/flyingVehicle-class.js";
+  var hash = "e021c4c09ee1e1b1d331b235e98e4f7004cc1925";
+
+  var Function = function () {}.constructor;
+
+  var global = new Function("return this")();
+  var gcv = "__coverage__";
+  var coverageData = {
+    path: "/home/lorin/cf/401/lab02-401n12/objects/flyingVehicle/flyingVehicle-class.js",
+    statementMap: {
+      "0": {
+        start: {
+          line: 5,
+          column: 4
+        },
+        end: {
+          line: 5,
+          column: 21
+        }
+      },
+      "1": {
+        start: {
+          line: 6,
+          column: 4
+        },
+        end: {
+          line: 6,
+          column: 27
+        }
+      },
+      "2": {
+        start: {
+          line: 9,
+          column: 4
+        },
+        end: {
+          line: 9,
+          column: 62
+        }
+      },
+      "3": {
+        start: {
+          line: 12,
+          column: 4
+        },
+        end: {
+          line: 12,
+          column: 29
+        }
+      },
+      "4": {
+        start: {
+          line: 18,
+          column: 4
+        },
+        end: {
+          line: 18,
+          column: 19
+        }
+      },
+      "5": {
+        start: {
+          line: 21,
+          column: 4
+        },
+        end: {
+          line: 21,
+          column: 30
+        }
+      },
+      "6": {
+        start: {
+          line: 27,
+          column: 4
+        },
+        end: {
+          line: 27,
+          column: 19
+        }
+      },
+      "7": {
+        start: {
+          line: 30,
+          column: 4
+        },
+        end: {
+          line: 30,
+          column: 49
+        }
+      },
+      "8": {
+        start: {
+          line: 34,
+          column: 0
+        },
+        end: {
+          line: 34,
+          column: 40
+        }
+      }
+    },
+    fnMap: {
+      "0": {
+        name: "(anonymous_0)",
+        decl: {
+          start: {
+            line: 4,
+            column: 2
+          },
+          end: {
+            line: 4,
+            column: 3
+          }
+        },
+        loc: {
+          start: {
+            line: 4,
+            column: 28
+          },
+          end: {
+            line: 7,
+            column: 3
+          }
+        },
+        line: 4
+      },
+      "1": {
+        name: "(anonymous_1)",
+        decl: {
+          start: {
+            line: 8,
+            column: 2
+          },
+          end: {
+            line: 8,
+            column: 3
+          }
+        },
+        loc: {
+          start: {
+            line: 8,
+            column: 7
+          },
+          end: {
+            line: 10,
+            column: 3
+          }
+        },
+        line: 8
+      },
+      "2": {
+        name: "(anonymous_2)",
+        decl: {
+          start: {
+            line: 11,
+            column: 2
+          },
+          end: {
+            line: 11,
+            column: 3
+          }
+        },
+        loc: {
+          start: {
+            line: 11,
+            column: 11
+          },
+          end: {
+            line: 13,
+            column: 3
+          }
+        },
+        line: 11
+      },
+      "3": {
+        name: "(anonymous_3)",
+        decl: {
+          start: {
+            line: 17,
+            column: 2
+          },
+          end: {
+            line: 17,
+            column: 3
+          }
+        },
+        loc: {
+          start: {
+            line: 17,
+            column: 28
+          },
+          end: {
+            line: 19,
+            column: 3
+          }
+        },
+        line: 17
+      },
+      "4": {
+        name: "(anonymous_4)",
+        decl: {
+          start: {
+            line: 20,
+            column: 2
+          },
+          end: {
+            line: 20,
+            column: 3
+          }
+        },
+        loc: {
+          start: {
+            line: 20,
+            column: 8
+          },
+          end: {
+            line: 22,
+            column: 3
+          }
+        },
+        line: 20
+      },
+      "5": {
+        name: "(anonymous_5)",
+        decl: {
+          start: {
+            line: 26,
+            column: 2
+          },
+          end: {
+            line: 26,
+            column: 3
+          }
+        },
+        loc: {
+          start: {
+            line: 26,
+            column: 28
+          },
+          end: {
+            line: 28,
+            column: 3
+          }
+        },
+        line: 26
+      },
+      "6": {
+        name: "(anonymous_6)",
+        decl: {
+          start: {
+            line: 29,
+            column: 2
+          },
+          end: {
+            line: 29,
+            column: 3
+          }
+        },
+        loc: {
+          start: {
+            line: 29,
+            column: 8
+          },
+          end: {
+            line: 31,
+            column: 3
+          }
+        },
+        line: 29
+      }
+    },
+    branchMap: {},
+    s: {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0
+    },
+    f: {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    b: {},
+    _coverageSchema: "43e27e138ebf9cfc5966b082cf9a028302ed4184"
+  };
+  var coverage = global[gcv] || (global[gcv] = {});
+
+  if (coverage[path] && coverage[path].hash === hash) {
+    return coverage[path];
+  }
+
+  coverageData.hash = hash;
+  return coverage[path] = coverageData;
+}();
+
+class FlyingVehicle {
+  constructor(name, engines) {
+    /* istanbul ignore next */
+    cov_2cyvkc5n87.f[0]++;
+    cov_2cyvkc5n87.s[0]++;
+    this.name = name;
+
+    /* istanbul ignore next */
+    cov_2cyvkc5n87.s[1]++;
+    this.engines = engines;
+  }
+
+  on() {
+    /* istanbul ignore next */
+    cov_2cyvkc5n87.f[1]++;
+    cov_2cyvkc5n87.s[2]++;
+    return 'All ' + this.engines + ' rotors are spinning up.';
+  }
+
+  flying() {
+    /* istanbul ignore next */
+    cov_2cyvkc5n87.f[2]++;
+    cov_2cyvkc5n87.s[3]++;
+    return 'We are airborne';
+  }
+
+}
+
+class Helicopter extends FlyingVehicle {
+  constructor(name, engines) {
+    /* istanbul ignore next */
+    cov_2cyvkc5n87.f[3]++;
+    cov_2cyvkc5n87.s[4]++;
+    super(name, 2);
+  }
+
+  news() {
+    /* istanbul ignore next */
+    cov_2cyvkc5n87.f[4]++;
+    cov_2cyvkc5n87.s[5]++;
+    return 'This just in ...';
+  }
+
+}
+
+class Airplane extends FlyingVehicle {
+  constructor(name, engines) {
+    /* istanbul ignore next */
+    cov_2cyvkc5n87.f[5]++;
+    cov_2cyvkc5n87.s[6]++;
+    super(name, 4);
+  }
+
+  errr() {
+    /* istanbul ignore next */
+    cov_2cyvkc5n87.f[6]++;
+    cov_2cyvkc5n87.s[7]++;
+    return 'Thank you for flying with us today.';
+  }
+
+}
+
+/* istanbul ignore next */
+cov_2cyvkc5n87.s[8]++;
+module.exports = {
+  Helicopter,
+  Airplane
+};
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZseWluZ1ZlaGljbGUtY2xhc3MuanMiXSwibmFtZXMiOlsiRmx5aW5nVmVoaWNsZSIsImNvbnN0cnVjdG9yIiwibmFtZSIsImVuZ2luZXMiLCJvbiIsImZseWluZyIsIkhlbGljb3B0ZXIiLCJuZXdzIiwiQWlycGxhbmUiLCJlcnJyIiwibW9kdWxlIiwiZXhwb3J0cyJdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUVBLE1BQU1BLGFBQU4sQ0FBb0I7QUFDbEJDLEVBQUFBLFdBQVcsQ0FBQ0MsSUFBRCxFQUFPQyxPQUFQLEVBQWU7QUFBQTtBQUFBO0FBQUE7QUFDeEIsU0FBS0QsSUFBTCxHQUFZQSxJQUFaOztBQUR3QjtBQUFBO0FBRXhCLFNBQUtDLE9BQUwsR0FBZUEsT0FBZjtBQUNEOztBQUNEQyxFQUFBQSxFQUFFLEdBQUc7QUFBQTtBQUFBO0FBQUE7QUFDSCxXQUFPLFNBQVMsS0FBS0QsT0FBZCxHQUF3QiwwQkFBL0I7QUFDRDs7QUFDREUsRUFBQUEsTUFBTSxHQUFHO0FBQUE7QUFBQTtBQUFBO0FBQ1AsV0FBTyxpQkFBUDtBQUNEOztBQVZpQjs7QUFhcEIsTUFBTUMsVUFBTixTQUF5Qk4sYUFBekIsQ0FBdUM7QUFDckNDLEVBQUFBLFdBQVcsQ0FBQ0MsSUFBRCxFQUFPQyxPQUFQLEVBQWU7QUFBQTtBQUFBO0FBQUE7QUFDeEIsVUFBTUQsSUFBTixFQUFZLENBQVo7QUFDRDs7QUFDREssRUFBQUEsSUFBSSxHQUFFO0FBQUE7QUFBQTtBQUFBO0FBQ0osV0FBTyxrQkFBUDtBQUNEOztBQU5vQzs7QUFTdkMsTUFBTUMsUUFBTixTQUF1QlIsYUFBdkIsQ0FBcUM7QUFDbkNDLEVBQUFBLFdBQVcsQ0FBQ0MsSUFBRCxFQUFPQyxPQUFQLEVBQWU7QUFBQTtBQUFBO0FBQUE7QUFDeEIsVUFBTUQsSUFBTixFQUFZLENBQVo7QUFDRDs7QUFDRE8sRUFBQUEsSUFBSSxHQUFFO0FBQUE7QUFBQTtBQUFBO0FBQ0osV0FBTyxxQ0FBUDtBQUNEOztBQU5rQzs7OztBQVNyQ0MsTUFBTSxDQUFDQyxPQUFQLEdBQWlCO0FBQUNMLEVBQUFBLFVBQUQ7QUFBYUUsRUFBQUE7QUFBYixDQUFqQiIsInNvdXJjZXNDb250ZW50IjpbIid1c2Ugc3RyaWN0JztcblxuY2xhc3MgRmx5aW5nVmVoaWNsZSB7XG4gIGNvbnN0cnVjdG9yKG5hbWUsIGVuZ2luZXMpe1xuICAgIHRoaXMubmFtZSA9IG5hbWU7XG4gICAgdGhpcy5lbmdpbmVzID0gZW5naW5lcztcbiAgfVxuICBvbigpIHtcbiAgICByZXR1cm4gJ0FsbCAnICsgdGhpcy5lbmdpbmVzICsgJyByb3RvcnMgYXJlIHNwaW5uaW5nIHVwLic7XG4gIH1cbiAgZmx5aW5nKCkge1xuICAgIHJldHVybiAnV2UgYXJlIGFpcmJvcm5lJztcbiAgfVxufVxuXG5jbGFzcyBIZWxpY29wdGVyIGV4dGVuZHMgRmx5aW5nVmVoaWNsZSB7XG4gIGNvbnN0cnVjdG9yKG5hbWUsIGVuZ2luZXMpe1xuICAgIHN1cGVyKG5hbWUsIDIpO1xuICB9XG4gIG5ld3MoKXtcbiAgICByZXR1cm4gJ1RoaXMganVzdCBpbiAuLi4nO1xuICB9XG59XG5cbmNsYXNzIEFpcnBsYW5lIGV4dGVuZHMgRmx5aW5nVmVoaWNsZSB7XG4gIGNvbnN0cnVjdG9yKG5hbWUsIGVuZ2luZXMpe1xuICAgIHN1cGVyKG5hbWUsIDQpO1xuICB9XG4gIGVycnIoKXtcbiAgICByZXR1cm4gJ1RoYW5rIHlvdSBmb3IgZmx5aW5nIHdpdGggdXMgdG9kYXkuJztcbiAgfVxufVxuXG5tb2R1bGUuZXhwb3J0cyA9IHtIZWxpY29wdGVyLCBBaXJwbGFuZX07Il19
