@@ -1,4 +1,4 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+![CF](http://i.imgur.com/7v5ASc8.png) LAB ![Build Status](https://travis-ci.com/L-Stewart/lab02-401n12.svg?branch=master)
 =================================================
 
 ## Classes, Inheritance, Functional Programming
@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/L-Stewart/lab02-401n12)
-* [travis]()
+* [travis](https://travis-ci.com/L-Stewart/lab02-401n12)
 
 ### Modules
 #### `index.js`

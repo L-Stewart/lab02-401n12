@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="819a7f52-c8d4-4f5d-a156-ffbf5a5cdfe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/23/seaCreature.test_23e142181ceb22ebee04d7e510826f25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/23/seaCreature.test_23e142181ceb22ebee04d7e510826f25.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/24/flyingVehicle.test_240be0ac7750235dbc37fb7fc1eec348" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/24/flyingVehicle.test_240be0ac7750235dbc37fb7fc1eec348.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/64/flyingVehicle.test_6491d2a5e9111349e234a8f903dd22e7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/64/flyingVehicle.test_6491d2a5e9111349e234a8f903dd22e7.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/86/vehicle.test_8628853a4d369f9a5d95de5d8cdcd1b2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/86/vehicle.test_8628853a4d369f9a5d95de5d8cdcd1b2.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/8a/seaCreature.test_8a5434d8425a90fe5cc6798907662477" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/8a/seaCreature.test_8a5434d8425a90fe5cc6798907662477.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/9a/flyingVehicle.test_9a9dc18d8e67eefeb61f93f3c050316f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/9a/flyingVehicle.test_9a9dc18d8e67eefeb61f93f3c050316f.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/a4/flyingVehicle-class_a45cb830d995cad8382146038ba1e5f4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/a4/flyingVehicle-class_a45cb830d995cad8382146038ba1e5f4.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/b0/seaCreature-class_b0caac76eb8c86a494e25e837cbe9926" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/b0/seaCreature-class_b0caac76eb8c86a494e25e837cbe9926.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/c4/seaCreature.test_c4112de4cf2462fadaaf2677139798c5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/c4/seaCreature.test_c4112de4cf2462fadaaf2677139798c5.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/f6/seaCreature.test_f6cab1ab8409c5d88f2c27afa4f82f6f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest_0/jest-transform-cache-26ce6a0b3af2a266631bde1c960d303a-c446def493f358edec1eacba7da763bf/f6/seaCreature.test_f6cab1ab8409c5d88f2c27afa4f82f6f.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest_0/haste-map-26ce6a0b3af2a266631bde1c960d303a-acbd2e529d9de0d9a6a17f073b675706-0813fb0a6b07fc9471faeb9062846b42" beforeDir="false" afterPath="$PROJECT_DIR$/jest_0/haste-map-26ce6a0b3af2a266631bde1c960d303a-acbd2e529d9de0d9a6a17f073b675706-0813fb0a6b07fc9471faeb9062846b42" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest_0/perf-cache-26ce6a0b3af2a266631bde1c960d303a-d41d8cd98f00b204e9800998ecf8427e" beforeDir="false" afterPath="$PROJECT_DIR$/jest_0/perf-cache-26ce6a0b3af2a266631bde1c960d303a-d41d8cd98f00b204e9800998ecf8427e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/__tests__/flyingVehicle.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects/__tests__/flyingVehicle.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/__tests__/seaCreature.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects/__tests__/seaCreature.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/__tests__/vehicle.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/objects/__tests__/vehicle.test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,9 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/objects/__tests__/seaCreature.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-            </state>
+            <state relative-caret-position="-102" />
           </provider>
         </entry>
       </file>
@@ -54,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="408">
-                <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
               </first_editor>
               <second_editor />
             </state>
@@ -169,7 +141,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11814000" />
+    <option name="totallyTimeSpent" value="11957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
@@ -189,7 +161,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18466523" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4136069" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -308,16 +280,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/objects/__tests__/seaCreature.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
+        <state relative-caret-position="-102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
           </first_editor>
           <second_editor />
         </state>
